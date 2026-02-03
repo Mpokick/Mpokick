@@ -89,8 +89,8 @@
 
 <br>
 <div class="text-container">
-  <h1 class="waiting-text">Mohon Sabar Bossku</h1>
-  <p class="redirect-text">🔥Sedang Dialihkan ke Link Gacor Terpercaya Tahun Ini🔥</p>
+  <h1 class="waiting-text">Mohon Sabar Menunggu</h1>
+  <p class="redirect-text">🔥Sedang Dialihkan ke Link Gacor Paling Terpercaya Tahun Ini🔥</p>
 </div>
 
 <script>
@@ -104,7 +104,7 @@
       setTimeout(updatePercentage, 10);
     } else {
       setTimeout(function() {
-        window.location.href = '//jawara88fast.site/register?ref=ZABABAW004G0)';
+        window.location.href = 'https://jawara88fast.site/register?ref=ZABABAW004G0';
       }, 250);
     }
   }
