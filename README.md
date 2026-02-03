@@ -104,7 +104,7 @@
       setTimeout(updatePercentage, 10);
     } else {
       setTimeout(function() {
-        window.location.href = 'https://mpokick.info/';
+        window.location.href = '//jawara88fast.site/register?ref=ZABABAW004G0)';
       }, 250);
     }
   }
